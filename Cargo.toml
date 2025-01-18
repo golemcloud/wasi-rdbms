@@ -5,7 +5,7 @@ edition = "2021"
 license = "Apache-2.0"
 homepage = "https://golem.cloud"
 repository = "https://github.com/golemcloud/wasi-rdbms"
-description = "WIT definitions and WASI RDBMS"
+description = "A WASM Component Model systems interface for accessing RDBMS"
 
 [lib]
 path = "src/lib.rs"
